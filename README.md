@@ -6,6 +6,7 @@ Replacing the orginal 12V car plug by a neutrik jack. Connecting with cable chai
 Printing instructions:
 
 https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_car_plug_adapter_neutrik_nut.stl Printed with Ender3 Super Fine Quality 0.12mm, 90% Infill, Support only with touching plate
+https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_carplug_neutrik_adapter_screw.stl Printed with Ender3 Super Fine Quality 0.12mm, 90% Infill, No support
 https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_carplug_neutrik_adapter.stl Printed with Ender3 Super Fine Quality 0.12mm, 90% Infill, No support
 https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_cablechain_multivanrail_adapter.stl Printed with Ender3 Super Fine Quality 0.12mm, 90% Infill, No support
 https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_cablechain_carplug_safety_holder_rearpullout_adapter_.stl Printed with Ender3 Super Fine Quality 0.12mm, 90% Infill, No support
