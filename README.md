@@ -34,4 +34,4 @@ Neutrik Jack link: https://www.amazon.de/Neutrik-NL4MP-Speakon-Einbaubuchse/dp/B
 
 Neutrik Plug link: https://www.amazon.de/Neutrik-NL4FRX-Speakon-Winkelstecker-4-Pol/dp/B004BR2YDO/
 
-
+[Stainless Steel Screw Kit] (https://amazon.de/gp/product/B07PFCRMKR/)
