@@ -17,6 +17,12 @@ Replacing the orginal 12V car plug by a neutrik jack. Connecting with cable chai
   <img src="https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/pics/neutrik_plug_new.jpg" alt="Neutrik plug" width="200"/>
 </p>
 
+## Assembly instructions:
+
+* Print all stl´s referenced in section printing instructions
+* For 12V cables 2.5mm2 cables have been used. For the Neutrik plug cable terminators have been used
+* The [Cable Chain](https://www.amazon.de/dp/B07S6LW7BK/) has been mounted to the [Adapter Multirail](https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_cablechain_multivanrail_adapter.stl) with two M3 screws (taken from the set [Stainless Steel Screw Kit](https://amazon.de/gp/product/B07PFCRMKR/), protected by [Screw Lock](https://www.amazon.de/-/en/gp/product/B00295K0IQ/)
+
 ## Printing instructions:
 
 ### Neutrik Adapter:
