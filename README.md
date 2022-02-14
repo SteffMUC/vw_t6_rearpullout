@@ -20,7 +20,7 @@ Replacing the orginal 12V car plug by a neutrik jack. Connecting with cable chai
 ## Assembly instructions:
 
 * Print all stl´s referenced in section printing instructions
-* For 12V cables 2.5mm2 cables have been used. For the Neutrik plug cable terminators have been used. All relevant parts have been protected with [Heat Shrink Tubes](https://smile.amazon.de/gp/product/B0778D22WM)
+* For 12V cables 2.5mm2 cables have been used. For the Neutrik plug cable terminators ([Wire End Ferrule Pliers](https://www.amazon.de/Crimpzangen-Aderendh%C3%BClsen-Preciva-Aderendh%C3%BClsenzange-st%C3%BCck/dp/B086BV38XS))have been used. All relevant parts have been protected with [Heat Shrink Tubes](https://smile.amazon.de/gp/product/B0778D22WM)
 * For the [Neutrik Jack](https://www.amazon.de/Neutrik-NL4MP-Speakon-Einbaubuchse/dp/B004BR2YFW/) the parts [Nut for Neutrik Adapter](https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_car_plug_adapter_neutrik_nut.stl) and [Screw for Neutrik Adapter](https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_carplug_neutrik_adapter_screw.stl) have to be mounted to the [Neutrik Adapter](https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_carplug_neutrik_adapter.stl)
 * The [Cable Chain](https://www.amazon.de/dp/B07S6LW7BK/) has been mounted to the [Adapter Multirail](https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_cablechain_multivanrail_adapter.stl) with two M3 screws (taken from the set [Stainless Steel Screw Kit](https://amazon.de/gp/product/B07PFCRMKR/), protected by [Screw Lock](https://www.amazon.de/-/en/gp/product/B00295K0IQ/)
 * The other end of the [Cable Chain](https://www.amazon.de/dp/B07S6LW7BK/) has been mounted to the [Rear pullout platform](https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/vw_t6_cablechain_carplug_rearpullout_adapter.stl)
@@ -65,3 +65,5 @@ Replacing the orginal 12V car plug by a neutrik jack. Connecting with cable chai
 [Stainless Steel Screw Kit](https://amazon.de/gp/product/B07PFCRMKR/)
 
 [Heat Shrink Tubing Set](https://smile.amazon.de/gp/product/B0778D22WM)
+
+[Wire End Ferrule Pliers Set](https://www.amazon.de/Crimpzangen-Aderendh%C3%BClsen-Preciva-Aderendh%C3%BClsenzange-st%C3%BCck/dp/B086BV38XS)
