@@ -1,11 +1,17 @@
 # Get dedicated 12V car plug on rear pullout on a VW T6
 Complementing rear pullout of bus-boxx with cable chain plus Neutrik connector
 
-## Final assembly
+## Final assembly cable chain
 
-![Final Assembly Part1](https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/pics/chain_mounted_1.jpeg?raw=true)
+<img src="https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/pics/chain_mounted_1.jpeg" alt="Final Assembly Part1" width="200"/>
+<img src="https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/pics/chain_mounted_2.jpeg" alt="Final Assembly Part2" width="200"/>
+
+## Replacing 12V car plug by neutrik jack
 
 Replacing the orginal 12V car plug by a neutrik jack. Connecting with cable chain to rear pull out to protect cables.
+
+<img src="https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/pics/old_plug.jpg" alt="Old plug" width="200"/>
+<img src="https://github.com/SteffMUC/vw_t6_rearpullout/blob/main/pics/neutrik_plug_new.jpg" alt="Neutrik plug" width="200"/>
 
 ## Printing instructions:
 
